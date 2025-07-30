@@ -31,16 +31,16 @@ history to paint the GitHub contribution graph — useful for creating pixel art
 
 1. Clone a Private Repository
 
->![ git clone git@github.com:muxx3/commitGen.git ](https://git@github.com/muxx3/commitGen)
+> type 'git clone git@github.com:muxx3/commitGen.git' in your terminal
 >>cd commitGen
 
 2. Install Dependencies
 
->bun install (npm install)
+>npm install
 
 4. Run the Script
 
->bun index.js (node index.js)
+>node index.js
 
     ⚠ Warning: It will take time
 
